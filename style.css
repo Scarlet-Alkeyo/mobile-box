@@ -1,0 +1,10 @@
+#inner_container {
+    padding :20px;
+    margin: 5%;
+    border :solid green;
+
+}
+#outer_container{
+    border-style: dotted; 
+    border-color:1px blue;
+}
